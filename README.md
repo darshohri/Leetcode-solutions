@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/darshohri/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [2235-add-two-integers](https://github.com/darshohri/Leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/darshohri/Leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/darshohri/Leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +39,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [3024-type-of-triangle](https://github.com/darshohri/Leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -46,4 +49,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3024-type-of-triangle](https://github.com/darshohri/Leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
