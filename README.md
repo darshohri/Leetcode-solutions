@@ -71,4 +71,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/darshohri/Leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0709-to-lower-case](https://github.com/darshohri/Leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
 <!---LeetCode Topics End-->
