@@ -42,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
+| [1470-shuffle-the-array](https://github.com/darshohri/Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [3024-type-of-triangle](https://github.com/darshohri/Leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
