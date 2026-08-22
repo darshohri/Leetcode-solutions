@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/darshohri/Leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/darshohri/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0509-fibonacci-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
