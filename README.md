@@ -44,6 +44,7 @@
 | ------- | ------- |
 | [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1470-shuffle-the-array](https://github.com/darshohri/Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/darshohri/Leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3024-type-of-triangle](https://github.com/darshohri/Leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -77,4 +78,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0709-to-lower-case](https://github.com/darshohri/Leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/darshohri/Leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
