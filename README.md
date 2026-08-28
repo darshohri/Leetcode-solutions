@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/darshohri/Leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0258-add-digits](https://github.com/darshohri/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+| [0319-bulb-switcher](https://github.com/darshohri/Leetcode-solutions/tree/main/0319-bulb-switcher/) | Medium |
 | [0509-fibonacci-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/darshohri/Leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -75,6 +76,7 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0319-bulb-switcher](https://github.com/darshohri/Leetcode-solutions/tree/main/0319-bulb-switcher/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/darshohri/Leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
