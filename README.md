@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/darshohri/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0258-add-digits](https://github.com/darshohri/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0319-bulb-switcher](https://github.com/darshohri/Leetcode-solutions/tree/main/0319-bulb-switcher/) | Medium |
+| [0367-valid-perfect-square](https://github.com/darshohri/Leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/darshohri/Leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -88,4 +89,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/darshohri/Leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/darshohri/Leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
