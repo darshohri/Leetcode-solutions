@@ -9,6 +9,7 @@
 | [0050-powx-n](https://github.com/darshohri/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0258-add-digits](https://github.com/darshohri/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0319-bulb-switcher](https://github.com/darshohri/Leetcode-solutions/tree/main/0319-bulb-switcher/) | Medium |
+| [0342-power-of-four](https://github.com/darshohri/Leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/darshohri/Leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
@@ -40,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/darshohri/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+| [0342-power-of-four](https://github.com/darshohri/Leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -93,4 +95,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/darshohri/Leetcode-solutions/tree/main/0367-valid-perfect-square/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/darshohri/Leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
