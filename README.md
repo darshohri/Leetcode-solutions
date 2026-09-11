@@ -61,6 +61,7 @@
 | [1470-shuffle-the-array](https://github.com/darshohri/Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/darshohri/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/darshohri/Leetcode-solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/darshohri/Leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [3024-type-of-triangle](https://github.com/darshohri/Leetcode-solutions/tree/main/3024-type-of-triangle/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0709-to-lower-case](https://github.com/darshohri/Leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/darshohri/Leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
