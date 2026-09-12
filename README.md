@@ -20,6 +20,7 @@
 | [2235-add-two-integers](https://github.com/darshohri/Leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/darshohri/Leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/darshohri/Leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2469-convert-the-temperature](https://github.com/darshohri/Leetcode-solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/darshohri/Leetcode-solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/darshohri/Leetcode-solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/darshohri/Leetcode-solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
