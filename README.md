@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/darshohri/Leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/darshohri/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/darshohri/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0258-add-digits](https://github.com/darshohri/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0319-bulb-switcher](https://github.com/darshohri/Leetcode-solutions/tree/main/0319-bulb-switcher/) | Medium |
@@ -96,6 +97,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/darshohri/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0709-to-lower-case](https://github.com/darshohri/Leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/darshohri/Leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Matrix
@@ -114,6 +116,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/darshohri/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/darshohri/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
