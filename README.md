@@ -18,6 +18,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/darshohri/Leetcode-solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/darshohri/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/darshohri/Leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1925-count-square-sum-triples](https://github.com/darshohri/Leetcode-solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 | [2235-add-two-integers](https://github.com/darshohri/Leetcode-solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/darshohri/Leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/darshohri/Leetcode-solutions/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -122,4 +123,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/darshohri/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1925-count-square-sum-triples](https://github.com/darshohri/Leetcode-solutions/tree/main/1925-count-square-sum-triples/) | Easy |
 <!---LeetCode Topics End-->
