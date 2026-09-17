@@ -89,6 +89,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/darshohri/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/darshohri/Leetcode-solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -127,4 +128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/darshohri/Leetcode-solutions/tree/main/1925-count-square-sum-triples/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/darshohri/Leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
