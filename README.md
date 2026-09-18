@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/darshohri/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/darshohri/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/darshohri/Leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0258-add-digits](https://github.com/darshohri/Leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 | [0319-bulb-switcher](https://github.com/darshohri/Leetcode-solutions/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/darshohri/Leetcode-solutions/tree/main/0326-power-of-three/) | Easy |
@@ -100,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/darshohri/Leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/darshohri/Leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0709-to-lower-case](https://github.com/darshohri/Leetcode-solutions/tree/main/0709-to-lower-case/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/darshohri/Leetcode-solutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 ## Matrix
