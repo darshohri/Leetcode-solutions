@@ -61,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/darshohri/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0136-single-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0877-stone-game](https://github.com/darshohri/Leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1470-shuffle-the-array](https://github.com/darshohri/Leetcode-solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/darshohri/Leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -116,6 +117,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/darshohri/Leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0342-power-of-four](https://github.com/darshohri/Leetcode-solutions/tree/main/0342-power-of-four/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
